@@ -1,0 +1,295 @@
+.accueil{
+    background-image: url(./trekking-store-main/images/paysage.png);
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    
+}
+
+.lien{
+    margin-left: 700px;
+    font-size: x-large;
+    margin-top: 50px;
+    
+}
+
+.logo{
+    margin-left: 50px;
+    margin-top: 15;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.H{
+    margin-right: 150px;
+}
+.bi-cart-fill{
+    margin-left: 150px;
+    color: white;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 300px;
+}
+
+p{
+    text-align: center;
+    opacity: 60%;
+}
+
+.checkbox{
+    background-color: rgba(128, 128, 128, 0.24);
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.form-check{
+    margin-left: 250px;
+    
+}
+
+.form-check1{
+    margin-left: 30px;
+}
+
+.form-check2{
+    margin-left: 30px;
+}
+
+input.input1{
+    background-color: rgba(88, 68, 68, 0.774);
+    color: white;
+    border:none;
+    margin-left: 400px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.men{   
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+input.input2{
+    width: 800px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    background-color: white;
+    margin-left: 10px;
+    
+}
+
+.hommepage{
+    height: 100vh;
+
+}
+
+.colonne1{
+    background-color: rgb(221, 220, 218);
+    height: 280px;
+   
+
+}
+
+input.input3{
+    width: 800px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    background-color: white;
+    margin-left: 10px;
+}
+
+svg{
+    width: 40px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+p.titre1{
+    opacity: 100%;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 100px;
+    padding-top: 100px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: large;
+}
+p.lorem1{
+    display: flex;
+    justify-content: flex-start;
+    margin-left:100px ;
+}
+.link{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+
+
+.Twitter{
+    height: 100px;
+    background-color: rgb(82, 82, 82);
+
+}
+.footer{
+    display: flex;
+    height: 400px;
+    background-color: rgb(39, 39, 39);
+}
+
+h1{
+    margin-top: 50px;
+    
+}
+h2{
+    margin-left: 1215px;
+    color:rgb(174, 146, 117) ;
+    font-size: 15px;
+}
+h3{
+    margin-left: 1215px;
+    font-size: 15px;
+    color:rgb(174, 146, 117) ;
+
+}
+.article1{
+    display: flex;
+    
+}
+.t-shirt{
+    background-color: rgb(222, 219, 219);
+    height: 400px;
+    width: 312px;
+    margin-left: 200px;
+}
+.pantalon{
+    height: 400px;
+    background-color: rgb(222, 219, 219);
+    width: 312px;
+    margin-left: 50px;
+}
+.sac{
+    background-color: rgb(222, 219, 219);
+    height: 400px;
+    width: 312px;  
+    margin-left: 50px; 
+}
+h4{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+img.men{
+    margin-left: 90px;
+    margin-top: 40px;
+}
+h5{
+    margin-top: 60px;
+    margin-left: 20px;
+    color:rgb(174, 146, 117) ;
+    
+}
+.prix{
+    display:flex ;
+}
+h6{
+    margin-left: 130px;
+    margin-top:60px ;
+}
+h4.p{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 15px;   
+}
+img.mon{
+    margin-left: 90px;
+    margin-top: 20px;   
+}
+.prix{
+    display: flex;
+}
+h6.r{
+    margin-left: 30px;
+    margin-top:35px ;
+}
+h5.r{
+    margin-top: 30px;
+    margin-left: 20px;
+    color:rgb(174, 146, 117) ;
+}
+.price{
+    display: flex;
+}
+img.bag{
+    margin-left: 70px;
+    margin-top: 30px;   
+}
+h6.e{
+    margin-left: 100px;
+    margin-top:40px ;   
+}
+h5.e{
+    margin-top: 40px;
+    margin-left: 20px;
+    color:rgb(174, 146, 117) ;  
+}
+.article2{
+    
+    height: 500px;
+}
+.pagefemme{
+    display: flex;
+    margin-left: 200px;
+}
+input.women{
+    margin-right: 50px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    background-color: white;
+    margin-top: 31px;
+    width: 830px;
+    height: 50px;
+    border-width: 1px;
+    
+}
+h2.Z{
+    margin-left: 200px;   
+}
+h3.Z{
+    margin-left: 200px;
+}
+.doudoune{
+    background-color: rgb(222, 219, 219);
+    height: 400px;
+    width: 312px;
+    margin-left: 200px;
+}
+.chaussure{
+    background-color: rgb(222, 219, 219);
+    height: 400px;
+    width: 312px;
+    margin-left: 50px;
+
+}
+.polo{
+    background-color: rgb(222, 219, 219);
+    height: 400px;
+    width: 312px;
+    margin-left: 50px;   
+}
+
+
+
+
